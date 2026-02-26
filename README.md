@@ -74,7 +74,6 @@ Swiggy-Restaurant-Recommendation-System/
 | cost | Approx cost for two |
 | address | Restaurant location |
 | link | Swiggy order link |
-| image | Restaurant food image |
 
 ---
 
