@@ -1,0 +1,57 @@
+name,city,cuisine,rating,rating_count,cost,address,link
+A2B,Chennai,South Indian,4.2,1200,300,T Nagar,https://swiggy.com/a2b
+SS Hyderabad Biryani,Chennai,Biryani,4.5,2500,400,Velachery,https://swiggy.com/ss
+Dominos,Chennai,Pizza,4.1,5000,600,Anna Nagar,https://swiggy.com/dominos
+KFC,Chennai,Fast Food,4.0,3200,700,Adyar,https://swiggy.com/kfc
+Saravana Bhavan,Chennai,South Indian,4.3,3800,450,Mylapore,https://swiggy.com/saravana
+Anjappar,Chennai,Chettinad,4.2,2100,550,Nungambakkam,https://swiggy.com/anjappar
+Hotel Sangeetha,Chennai,South Indian,4.1,1900,350,Chrompet,https://swiggy.com/sangeetha
+Dindigul Thalappakatti,Chennai,Biryani,4.4,4200,650,T Nagar,https://swiggy.com/thalappakatti
+Murugan Idli Shop,Chennai,South Indian,4.3,3000,400,Velachery,https://swiggy.com/murugan
+The Marina,Chennai,Seafood,4.5,2800,900,Egmore,https://swiggy.com/marina
+
+Paradise,Hyderabad,Biryani,4.6,8000,800,Hitech City,https://swiggy.com/paradise
+Bawarchi,Hyderabad,Biryani,4.4,6200,700,Road No 1,https://swiggy.com/bawarchi
+Shah Ghouse,Hyderabad,Biryani,4.5,5400,750,Tolichowki,https://swiggy.com/shahghouse
+Pizza Hut,Hyderabad,Pizza,4.1,2900,500,Banjara Hills,https://swiggy.com/pizzahut
+Cream Stone,Hyderabad,Desserts,4.3,2100,350,Jubilee Hills,https://swiggy.com/creamstone
+Chutneys,Hyderabad,South Indian,4.4,3300,600,Kukatpally,https://swiggy.com/chutneys
+Ohri's Eatmor,Hyderabad,Multi Cuisine,4.2,2600,650,Begumpet,https://swiggy.com/ohris
+Mehfil,Hyderabad,Biryani,4.3,4700,700,Narayanguda,https://swiggy.com/mehfil
+Kritunga,Hyderabad,Andhra,4.2,3900,600,Ameerpet,https://swiggy.com/kritunga
+Cafe Niloufer,Hyderabad,Bakery,4.5,5100,300,Lakdikapul,https://swiggy.com/niloufer
+
+Meghana Foods,Bangalore,Biryani,4.4,6000,750,Indiranagar,https://swiggy.com/meghana
+Empire Restaurant,Bangalore,North Indian,4.2,4100,650,Koramangala,https://swiggy.com/empire
+CTR,Bangalore,South Indian,4.6,3500,400,Malleswaram,https://swiggy.com/ctr
+Vidyarthi Bhavan,Bangalore,South Indian,4.5,3800,350,Basavanagudi,https://swiggy.com/vidyarthi
+Truffles,Bangalore,American,4.3,4200,700,Koramangala,https://swiggy.com/truffles
+Leon Grill,Bangalore,Fast Food,4.2,3000,500,HSR Layout,https://swiggy.com/leon
+Toit,Bangalore,Continental,4.4,2500,1200,Indiranagar,https://swiggy.com/toit
+Nagarjuna,Bangalore,Andhra,4.3,2700,650,Residency Road,https://swiggy.com/nagarjuna
+Onesta,Bangalore,Italian,4.1,2200,600,JP Nagar,https://swiggy.com/onesta
+Asha Tiffins,Bangalore,South Indian,4.4,1900,300,BTM Layout,https://swiggy.com/asha
+
+Sangeetha Veg,Coimbatore,South Indian,4.2,1400,350,Gandhipuram,https://swiggy.com/sangeethacbe
+Annapoorna,Coimbatore,South Indian,4.3,2200,400,RS Puram,https://swiggy.com/annapoorna
+Haribhavanam,Coimbatore,North Indian,4.4,2600,700,Peelamedu,https://swiggy.com/haribhavanam
+Kovai Biryani,Coimbatore,Biryani,4.1,1800,500,Saibaba Colony,https://swiggy.com/kovaibiryani
+The French Door,Coimbatore,Continental,4.3,1200,900,Avinashi Road,https://swiggy.com/frenchdoor
+
+Junior Kuppanna,Madurai,South Indian,4.3,2100,500,KK Nagar,https://swiggy.com/junior
+Amma Mess,Madurai,Biryani,4.2,1900,450,Anna Nagar,https://swiggy.com/ammamess
+Konar Kadai,Madurai,South Indian,4.4,2300,600,Bypass Road,https://swiggy.com/konar
+Sri Sabarees,Madurai,Vegetarian,4.1,1500,350,Periyar,https://swiggy.com/sabarees
+Hotel Temple City,Madurai,Multi Cuisine,4.0,1300,400,West Masi,https://swiggy.com/templecity
+
+Murugan Idli Shop,Trichy,South Indian,4.3,1700,350,Thillai Nagar,https://swiggy.com/murugantrichy
+Banana Leaf,Trichy,South Indian,4.2,1600,400,Srirangam,https://swiggy.com/bananaleaf
+Shri Sangeethas,Trichy,Vegetarian,4.1,1500,300,Cantonment,https://swiggy.com/sangeethas
+KMS Hakkim,Trichy,Biryani,4.3,2200,550,Central Bus Stand,https://swiggy.com/kms
+Hotel Kannappa,Trichy,Chettinad,4.2,1900,500,Chatram,https://swiggy.com/kannappa
+
+Albaik,Salem,Fast Food,4.2,1400,350,Five Roads,https://swiggy.com/albaik
+Selvi Mess,Salem,Biryani,4.1,1300,450,Hasthampatti,https://swiggy.com/selvi
+Hotel Ceylon,Salem,South Indian,4.0,1100,300,Shevapet,https://swiggy.com/ceylon
+Barbeque Nation,Salem,BBQ,4.3,1700,1000,Omalur Road,https://swiggy.com/bbqsalem
+Sri Saravana Bhavan,Salem,Vegetarian,4.2,1600,400,Ammapet,https://swiggy.com/saravanasalem
