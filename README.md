@@ -18,8 +18,7 @@ It displays restaurants in a modern **card-style UI** with:
 ## 🚀 Live Features
 
 ✅ Restaurant recommendations using KMeans  
-✅ Beautiful Swiggy-style card UI  
-✅ Image preview inside cards  
+✅ Beautiful Swiggy-style card UI    
 ✅ Clickable "Order on Swiggy" button  
 ✅ Rating & cost filtering  
 ✅ Sidebar filtering system  
